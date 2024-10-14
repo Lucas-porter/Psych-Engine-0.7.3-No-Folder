@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"difficulties": "nightmare",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Pico",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Philly Nice",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Blammed",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week 3"
+}
