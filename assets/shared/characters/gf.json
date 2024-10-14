@@ -176,22 +176,39 @@
 			"name": "GF Dancing Beat Hair Landing"
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				-2,
 				-17
 			],
-			"fps": 24,
 			"anim": "scared",
-			"indices": [],
-			"name": "GF FEAR"
+			"fps": 24,
+			"name": "GF FEAR",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3
+			]
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/GF_assets",
 	"position": [
-		0,
-		0
+		180,
+		160
 	],
 	"healthicon": "gf",
 	"flip_x": false,
@@ -201,9 +218,9 @@
 		77
 	],
 	"camera_position": [
-		0,
-		0
+		-170,
+		-160
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2
 }

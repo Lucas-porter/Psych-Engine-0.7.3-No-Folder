@@ -100,23 +100,25 @@
 			"indices": []
 		}
 	],
+	"vocals_file": "bf",
 	"no_antialiasing": true,
 	"image": "characters/bfPixel",
 	"position": [
-		0,
-		350
+		-30,
+		300
 	],
 	"healthicon": "bf-pixel",
 	"flip_x": true,
 	"healthbar_colors": [
 		123,
 		214,
-		246
+		255
 	],
 	"camera_position": [
-		50,
-		-60
+		100,
+		-100
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 6,
+	"_editor_isPlayer": true
 }

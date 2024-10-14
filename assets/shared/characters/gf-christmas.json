@@ -81,8 +81,8 @@
 	"no_antialiasing": false,
 	"image": "characters/gfChristmas",
 	"position": [
-		0,
-		0
+		200,
+		180
 	],
 	"healthicon": "gf",
 	"flip_x": false,
@@ -92,9 +92,9 @@
 		77
 	],
 	"camera_position": [
-		0,
-		0
+		-770,
+		-230
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2
 }

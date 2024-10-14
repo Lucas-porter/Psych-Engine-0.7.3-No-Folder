@@ -123,8 +123,8 @@
 	"no_antialiasing": false,
 	"image": "characters/DADDY_DEAREST",
 	"position": [
-		0,
-		0
+		120,
+		190
 	],
 	"healthicon": "dad",
 	"flip_x": false,
@@ -134,9 +134,9 @@
 		206
 	],
 	"camera_position": [
-		0,
-		0
+		-120,
+		-180
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2
 }

@@ -2,96 +2,76 @@
   "animations": [
     {
       "offsets": [
-        79,
-        -10
+        65,
+        27
       ],
       "loop": false,
       "fps": 24,
       "anim": "hey",
       "indices": [],
-      "name": "spooky kids YEAH!!"
+      "name": "Cheer"
     },
     {
       "offsets": [
-        150,
-        0
+        131,
+        -10
       ],
       "loop": false,
       "fps": 24,
       "anim": "singLEFT",
       "indices": [],
-      "name": "note sing left"
+      "name": "SingLEFT"
     },
     {
       "offsets": [
-        -110,
-        -4
+        -130,
+        -14
       ],
       "loop": false,
       "fps": 24,
       "anim": "singRIGHT",
       "indices": [],
-      "name": "spooky sing right"
+      "name": "SingRIGHT"
     },
     {
       "offsets": [
         -30,
-        -120
+        -140
       ],
       "loop": false,
       "fps": 24,
       "anim": "singDOWN",
       "indices": [],
-      "name": "spooky DOWN note"
+      "name": "SingDOWN"
     },
     {
       "offsets": [
-        20,
-        10
+        -25,
+        22
       ],
       "loop": false,
-      "anim": "danceLeft",
-      "fps": 12,
-      "name": "spooky dance idle",
-      "indices": [
-        0,
-        2,
-        6
-      ]
-    },
-    {
-      "offsets": [
-        20,
-        10
-      ],
-      "loop": false,
-      "anim": "danceRight",
-      "fps": 12,
-      "name": "spooky dance idle",
-      "indices": [
-        8,
-        10,
-        12,
-        14
-      ]
-    },
-    {
-      "offsets": [
-        0,
-        36
-      ],
-      "loop": false,
-      "anim": "singUP",
       "fps": 24,
-      "name": "spooky UP NOTE",
+      "anim": "singUP",
+      "indices": [],
+      "name": "SingUP"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -1
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "Idle",
       "indices": []
     }
   ],
   "no_antialiasing": false,
-  "image": "characters/spooky_kids_assets",
+  "image": "characters/dark/spooky_dark",
   "position": [
-    140,
-    330
+    170,
+    340
   ],
   "healthicon": "spooky",
   "flip_x": false,
@@ -101,8 +81,8 @@
     0
   ],
   "camera_position": [
-    -140,
-    -130
+    -170,
+    -140
   ],
   "sing_duration": 4,
   "scale": 2
