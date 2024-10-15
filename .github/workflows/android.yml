@@ -40,6 +40,6 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-artifact@main
         with:
-          name: Madness Incident 0201A Mobile
+          name: Friday Night Funkin
           path: export/release/android/bin/app/build/outputs/apk/debug/*.apk
           if-no-files-found: error
